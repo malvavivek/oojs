@@ -1,5 +1,5 @@
 module.exports = {
-    entry: './.js',
+    entry: './testiifemodules.js',
    output: {
       publicPath: '/',
       filename: 'main.js'
